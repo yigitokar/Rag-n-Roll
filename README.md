@@ -1,1 +1,1 @@
-Basic RAG implementation from Lightning AI.
+Basic RAG implementation 
